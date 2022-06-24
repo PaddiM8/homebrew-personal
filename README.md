@@ -1,0 +1,11 @@
+# Paddim8 Personal
+
+## How do I install these formulae?
+
+`brew install paddim8/personal/<formula>`
+
+Or `brew tap paddim8/personal` and then `brew install <formula>`.
+
+## Documentation
+
+`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
